@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+# Ignore subfolders that are created by the scripts
+data_processed/
+outputs/
+# Other files to ignore
+*.log

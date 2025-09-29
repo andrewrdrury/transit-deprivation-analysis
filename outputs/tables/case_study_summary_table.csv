@@ -1,0 +1,11 @@
+LSOA,Selection Reason,Original Rank,Modified Rank (A),Rank Change,Transport Decile,Income Score,BHS Score
+E01004892,Mismatch: not deprived but isolated,1,7,6,10,0.051,5.979
+E01004946,Mismatch: deprived + underserved,7,6,-1,8,0.333,24.185
+E01004956,Mismatch: deprived + underserved,5,4,-1,5,0.233,10.338
+E01005146,Match: deprived + well served,6,5,-1,1,0.221,31.322
+E01005690,BHS Baseline: not deprived + well served,2,1,-1,4,0.14,10.904
+E01006163,Baseline: not deprived + well served,4,3,-1,3,0.041,12.25
+E01006243,Mismatch: not deprived but isolated,3,2,-1,7,0.05,19.767
+E01004969,BHS Extreme: highest BHS transit desert score,8,8,0,9,0.161,40.364
+E01005325,Extreme: highest overall transit desert score,10,10,0,6,0.392,14.852
+E01005660,Match: deprived + well served,9,9,0,2,0.402,19.23

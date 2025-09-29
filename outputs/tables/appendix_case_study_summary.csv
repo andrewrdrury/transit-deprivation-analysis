@@ -1,0 +1,11 @@
+LSOA Code,Selection Rationale,Selection Category,Transit Desert Score,BHS Transit Desert Score,IMD Score,GMAL Score
+E01005690,BHS Baseline: not deprived + well served,Baseline,-0.32,-1.16,25.6,14.9
+E01006163,Baseline: not deprived + well served,Baseline,-1.82,-0.84,6.7,13.3
+E01004969,BHS Extreme: highest BHS transit desert score,Extreme,0.45,3.92,41.1,1.6
+E01005325,Extreme: highest overall transit desert score,Extreme,3.1,0.44,66.9,2.9
+E01005146,Match: deprived + well served,Match,-0.05,1.64,38.1,13.6
+E01005660,Match: deprived + well served,Match,1.94,0.33,63.1,10.5
+E01004892,Mismatch: not deprived but isolated,Mismatch,0.09,-0.75,12.3,3.2
+E01004946,Mismatch: deprived + underserved,Mismatch,2.15,1.64,54.9,3.3
+E01004956,Mismatch: deprived + underserved,Mismatch,1.26,-0.12,41.9,2.6
+E01006243,Mismatch: not deprived but isolated,Mismatch,-0.51,0.92,11.1,4.8

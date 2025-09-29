@@ -1,0 +1,11 @@
+LSOA,Exponential Method Rank Change,Simple Method Rank Change,Method Difference,Substantial Difference,Transport Decile
+E01004892,6,0,6,TRUE,10
+E01004946,-1,0,-1,TRUE,8
+E01004956,-1,0,-1,TRUE,5
+E01005146,-1,0,-1,TRUE,1
+E01005690,-1,0,-1,TRUE,4
+E01006163,-1,0,-1,TRUE,3
+E01006243,-1,0,-1,TRUE,7
+E01004969,0,0,0,FALSE,9
+E01005325,0,0,0,FALSE,6
+E01005660,0,0,0,FALSE,2

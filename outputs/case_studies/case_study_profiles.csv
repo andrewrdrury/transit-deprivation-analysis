@@ -1,0 +1,71 @@
+lsoa11cd,imd_original,rank_original,transport_domain_score,transport_decile,imd_approach_a,rank_approach_a,rank_change_a,score_change_a,imd_approach_b,rank_approach_b,rank_change_b,score_change_b,inc_score,bhs_score,gmal_score,selection_reason,quadrant,stop_density,peak_frequency,route_diversity,profile_summary
+E01004892,3.3890164127818e-6,1,0.7887017901581305,10,0.12000291551277747,7,6,3540836.3926413003,0.054003389010973984,7,6,1593382.6637988007,0.051,5.979,3.2075101064669225,Mismatch: not deprived but isolated,low_deprivation_low_access,7.810816828869809,454.6666666666667,16,"LSOA: E01004892
+Selection: Mismatch: not deprived but isolated
+Original IMD Rank: 1
+Approach A Rank: 7 (change: +6)
+Transport Decile: 10/10 (worst)
+Stops/km²: 7.8
+Peak services/hour: 454.7"
+E01004946,0.030684998897228814,7,0.4286852329805899,8,0.0279830012308934,6,-1,-8.805598055861214,0.030691028277118206,6,-1,0.019649275235712787,0.333,24.185,3.2793633862921885,Mismatch: deprived + underserved,high_deprivation_low_access,12.740530018598225,221,6,"LSOA: E01004946
+Selection: Mismatch: deprived + underserved
+Original IMD Rank: 7
+Approach A Rank: 6 (change: -1)
+Transport Decile: 8/10 (worst)
+Stops/km²: 12.7
+Peak services/hour: 221"
+E01004956,8.441993497879066e-4,5,0.05394589188812972,5,7.334113404855333e-4,4,-1,-13.123441676448483,8.443517114750966e-4,4,-1,0.018048069715803375,0.233,10.338,2.633007679916904,Mismatch: deprived + underserved,high_deprivation_low_access,10.129794264493178,875.6666666666666,39,"LSOA: E01004956
+Selection: Mismatch: deprived + underserved
+Original IMD Rank: 5
+Approach A Rank: 4 (change: -1)
+Transport Decile: 5/10 (worst)
+Stops/km²: 10.1
+Peak services/hour: 875.7"
+E01005146,0.021677611423895016,6,-1.6909109854893132,1,0.018647795291037578,5,-1,-13.976706536577648,0.017562210099152216,5,-1,-18.984570044495,0.221,31.322,13.599398787345486,Match: deprived + well served,high_deprivation_high_access,23.488079504975914,2801,42,"LSOA: E01005146
+Selection: Match: deprived + well served
+Original IMD Rank: 6
+Approach A Rank: 5 (change: -1)
+Transport Decile: 1/10 (worst)
+Stops/km²: 23.5
+Peak services/hour: 2801"
+E01005690,4.127664476202936e-6,2,-0.2670275260811458,4,3.5983044903356935e-6,1,-1,-12.824685458790105,4.138598611078832e-6,1,-1,0.2648988293242895,0.14,10.904,14.877644571349089,BHS Baseline: not deprived + well served,medium_deprivation_high_access,20.122552410465207,527.3333333333334,28,"LSOA: E01005690
+Selection: BHS Baseline: not deprived + well served
+Original IMD Rank: 2
+Approach A Rank: 1 (change: -1)
+Transport Decile: 4/10 (worst)
+Stops/km²: 20.1
+Peak services/hour: 527.3"
+E01006163,5.607527976815647e-4,4,-0.3173303859708987,3,4.823700424993624e-4,3,-1,-13.97813002561488,5.607420997550722e-4,3,-1,-0.0019077794237858943,0.041,12.25,13.344291387653326,Baseline: not deprived + well served,low_deprivation_high_access,17.223780832230887,616.6666666666666,25,"LSOA: E01006163
+Selection: Baseline: not deprived + well served
+Original IMD Rank: 4
+Approach A Rank: 3 (change: -1)
+Transport Decile: 3/10 (worst)
+Stops/km²: 17.2
+Peak services/hour: 616.7"
+E01006243,4.380818475454792e-5,3,0.40069627288034765,7,9.386570622091567e-5,2,-1,114.26522634259814,4.4276360566200704e-5,2,-1,1.0686948438423465,0.05,19.767,4.785834982883888,Mismatch: not deprived but isolated,low_deprivation_low_access,9.192132886766185,405,15,"LSOA: E01006243
+Selection: Mismatch: not deprived but isolated
+Original IMD Rank: 3
+Approach A Rank: 2 (change: -1)
+Transport Decile: 7/10 (worst)
+Stops/km²: 9.2
+Peak services/hour: 405"
+E01004969,0.18611152600242176,8,0.7702197092594176,9,0.16941701650129912,8,0,-8.970164212669667,0.13730457641440943,8,0,-26.22457116781538,0.161,40.364,1.5823808709457825,BHS Extreme: highest BHS transit desert score,NA,3.6087852023848153,325.3333333333333,15,"LSOA: E01004969
+Selection: BHS Extreme: highest BHS transit desert score
+Original IMD Rank: 8
+Approach A Rank: 8 (change: 0)
+Transport Decile: 9/10 (worst)
+Stops/km²: 3.6
+Peak services/hour: 325.3"
+E01005325,0.5125148666396183,10,0.24913516533801158,6,0.45557187617612255,10,0,-11.110505113120162,0.5125166801154777,10,0,3.538386839896792e-4,0.392,14.852,2.9363253308509445,Extreme: highest overall transit desert score,NA,11.96781071544318,612.6666666666666,8,"LSOA: E01005325
+Selection: Extreme: highest overall transit desert score
+Original IMD Rank: 10
+Approach A Rank: 10 (change: 0)
+Transport Decile: 6/10 (worst)
+Stops/km²: 12
+Peak services/hour: 612.7"
+E01005660,0.33065658524122354,9,-0.4161151649632688,2,0.29125020116294287,9,0,-11.917616595941247,0.33065465858123033,9,0,-5.826770369042015e-4,0.402,19.23,10.52767361110678,Match: deprived + well served,high_deprivation_high_access,22.910459954868998,849,15,"LSOA: E01005660
+Selection: Match: deprived + well served
+Original IMD Rank: 9
+Approach A Rank: 9 (change: 0)
+Transport Decile: 2/10 (worst)
+Stops/km²: 22.9
+Peak services/hour: 849"
